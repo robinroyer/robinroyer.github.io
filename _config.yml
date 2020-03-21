@@ -1,7 +1,7 @@
 # Mandatory settings
 
 blog_theme: dark # Or use dark
-name: MyBlogName
+name: Make software not war
 paginate: 50
 url: https://makesoftwarenotwar.com
 
