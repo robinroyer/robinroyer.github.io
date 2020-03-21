@@ -1,16 +1,16 @@
 # Mandatory settings
 
-blog_theme: light # Or use dark
-name: Chalk
-paginate: 25
-url: http://chalk.nielsenramon.com
+blog_theme: dark # Or use dark
+name: MyBlogName
+paginate: 50
+url: https://makesoftwarenotwar.com
 
 
 # Optional settings
 
 about_enabled: true # Change to true if you wish to show an icon in the navigation that redirects to the about page
 discus_identifier: chalk-1 # Add your Disqus identifier
-ga_analytics: UA-28631876-6 # Add your GA Tracking Id
+ga_analytics: #UA-28631876-6 # Add your GA Tracking Id
 local_fonts: false # Change to true if you wish to use local fonts
 rss_enabled: true # Change to false if not
 scrollappear_enabled: true # Change to false to disable
@@ -20,7 +20,7 @@ social:
   dribbble: nielsenramon # Add your Dribbble handle
   facebook: # Add your Facebook handle
   flickr: # Add your Flickr handle
-  github: nielsenramon # Add your GitHub handle
+  github: robinroyer # Add your GitHub handle
   linkedin: # Add your LinkedIn handle
   twitter: nielsenramon # Add your Twitter handle
   email: # Add your Email address
@@ -35,9 +35,9 @@ social:
   docker: # Add your Docker Hub handle
   instagram: # Add your Instagram handle
   keybase: # Add your Keybase handle
-  medium: # Add your Medium handle
+  medium: '@royer.robin' # Add your Medium handle
   spotify: # Add your Spotify handle
-  stackoverflow: # Add your Stack Overflow ID number
+  stackoverflow: 5219561# Add your Stack Overflow ID number
   steam: # Add your Steam handle
 
 

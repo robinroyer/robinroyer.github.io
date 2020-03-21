@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: post
 title: "Introducing chalk"
 description: "Chalk is a high quality, completely customizable, performant and 100% free blog template for Jekyll."
@@ -97,4 +97,4 @@ You can find more info on how to use the `gh-pages` branch and a custom domain [
 
 [View this](https://github.com/nielsenramon/kickster#automated-deployment-with-circle-ci) for more info about automated deployment with Circle CI.
 
-_If you have any questions about using or configuring Chalk please create an issue <a href="" title="here" rel="noreferrer noopener" target="_blank">here</a>!_
+_If you have any questions about using or configuring Chalk please create an issue <a href="" title="here" rel="noreferrer noopener" target="_blank">here</a>!_ -->

@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: post
 title: "Chalk sample post with all elements"
 description: "Have a look at all the predesigned elements you can use in Chalk."
@@ -9,9 +9,9 @@ tags: [design, jekyll]
 Chalk uses the default Jekyll syntax highlighting gem Rouge. It has a customized style for both light and dark theme.
 Use the `highlight` tag to use the following code highlighting your preferred language:
 
-{% highlight html %}
+{% highlight html %} -->
 <!-- This is a comment -->
-<div class="grid">
+<!-- <div class="grid">
   <h1>This is a heading</h1>
   <p>
     This is a paragraph text.
@@ -99,4 +99,4 @@ Videos can be added and are responsive by default (4x3 by default, 16x9 with ext
 <div class="embed-responsive embed-responsive-16by9">
   <iframe src="url-to-video" allowfullscreen></iframe>
 </div>
-{% endhighlight %}
+{% endhighlight %} -->
